@@ -1,0 +1,43 @@
+
+# Platform Team Project Checklist
+
+## Introduction
+This checklist is a practical guide for Platform Team members embarking on new team projects. It serves as a step-by-step guide to ensure effective collaboration and project management from start to finish.
+
+## Why This Process?
+We are implementing this process to avoid common pitfalls that can occur in team projects, such as:
+- **Lack of Inclusivity and Communication:** Projects initiated without consulting the entire team can overlook diverse skills and contributions, leading to suboptimal outcomes.
+- **Overlooking Expertise and Security Protocols:** Ignoring the expertise of team members, especially in critical areas like security, can result in non-compliance with necessary standards and protocols.
+- **Deviation from Best Practices:** Not adhering to established best practices, like CICD processes, creates additional workload and undermines the project's quality.
+- **Premature Project Completion Announcement:** Declaring a project complete without thorough team review can lead to recognition of incomplete or substandard work.
+- **Post-Completion Challenges:** Discovering a project late in its development can cause frustration, especially if it fails to represent the team's capabilities and requires significant rework.
+
+By following this checklist, we aim to ensure that every project benefits from the full range of our team's expertise, adheres to best practices, and truly reflects our collective capabilities.
+
+## Project Initiation
+- [ ] **Draft Project Proposal:** Write a brief summary of your project idea, objectives, and potential impact.
+- [ ] **Organize Team Discussion:** Schedule and conduct a meeting to discuss your proposal with the team. Record key points.
+- [ ] **Incorporate Team Feedback:** Revise your proposal based on the team's feedback. List revisions made.
+
+## Project Planning
+- [ ] **Define Roles and Responsibilities:** Assign clear roles based on team members' strengths. List team roles and names.
+- [ ] **Set Clear Objectives:** Decide on specific, measurable, achievable, relevant, and time-bound (SMART) objectives. Write them down.
+- [ ] **Develop a Project Timeline:** Create a timeline with key milestones. Outline the timeline.
+
+## Project Execution
+- [ ] **Conduct Regular Check-ins:** Schedule and hold regular meetings to discuss project progress. Log meetings and decisions.
+- [ ] **Utilize Collaboration Tools:** Implement and use tools for communication, code management, and task tracking. Note tools and information.
+- [ ] **Document Project Progress:** Keep a continuous record of developments and decisions. Update regularly.
+
+## Project Review
+- [ ] **Perform Internal Review:** Evaluate the project with your team. Summarize outcomes.
+- [ ] **Collect Feedback:** Gather feedback on the project process. Document feedback and responses.
+- [ ] **Incorporate Feedback into Project:** Make necessary changes based on feedback. List the changes.
+
+## Project Closure
+- [ ] **Complete Project Documentation:** Ensure all aspects of the project are documented. Confirm completion.
+- [ ] **Conduct Team Debrief:** Reflect on the project's successes and challenges. Record key points.
+- [ ] **Celebrate Team Success:** Acknowledge the team's effort and achievements. Plan and note celebration activities.
+
+## Conclusion
+Follow this checklist to lead your project effectively. It is structured to guide you through each phase, ensuring a collaborative and successful project outcome.
